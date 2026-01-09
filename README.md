@@ -1,2 +1,7 @@
-# Curso-python-do-curso-em-video
-Esse repositorio vai ser dedicado aos arquivos dos exercicios do canal curso em video
+# Exercícios de Python — Curso em Vídeo
+
+Este repositório será dedicado aos arquivos dos exercícios de **Python** do canal **Curso em Vídeo**.
+
+## Conteúdo
+
+- Contém as respostas que eu desenvolvi para os exercícios propostos.
