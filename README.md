@@ -18,7 +18,7 @@ A repository focused on practicing Python fundamentals through exercises from Cu
 
 You can find the full list here:
 - [Exercise List](docs/exercises-en.md)
-- [Exercise Answers](exercises/)
+- [Exercise Answers](exercices/)
 
 ---
 # Exercícios em Python — Curso em Vídeo
@@ -38,4 +38,4 @@ Repositório focado na prática de fundamentos de Python através de exercícios
 
 Você pode encontrar a lista completa aqui:
 - [Lista de Exercícios](docs/exercises-pt.md)
-- [Respostas dos Exercícios](exercises/desafio-01.ipynb)
+- [Respostas dos Exercícios](exercices/desafio-01.ipynb)
